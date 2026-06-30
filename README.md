@@ -1,9 +1,4 @@
 # US Road Construction & Closures — Spatio-Temporal Data Analytics
-
-> **AID843: Spatio-Temporal Data Analytics-I** |
-> International Institute of Information Technology Bangalore  
-> Programming Assignments A3
-
 ---
 
 ## Dataset
